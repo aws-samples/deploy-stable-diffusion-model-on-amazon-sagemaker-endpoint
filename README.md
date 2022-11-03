@@ -8,4 +8,9 @@
 
 ## Generated Sample
 
-![sample](sample_img/sample.png)
+<p float="center">
+  <img src="sample_img/1.png" width="25%" />
+  <img src="sample_img/2.png" width="25%" /> 
+  <img src="sample_img/3.png" width="25%" />
+  <img src="sample_img/4.png" width="25%"/>
+</p>
