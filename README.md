@@ -1,17 +1,11 @@
-## My Project
+# Deploy Stable Diffusion Models On Amazon SageMaker Endpoint
 
-TODO: Fill this README out!
+## Inference Script
+![inference_script](sample_img/inference.png)
 
-Be sure to:
+## Invoke Endpoint
+![invoke](sample_img/invoke.png)
 
-* Change the title in this README
-* Edit your repository description on GitHub
+## Generated Sample
 
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-## License
-
-This library is licensed under the MIT-0 License. See the LICENSE file.
-
+![sample](sample_img/sample.png)
